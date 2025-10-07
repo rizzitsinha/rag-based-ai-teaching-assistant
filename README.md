@@ -1,4 +1,4 @@
-# RAG-Based AI Teaching Assistant
+# 🎓 RAG-Based AI Teaching Assistant
 
 This project is a **Retrieval-Augmented Generation (RAG)** based **AI teaching assistant**, built using data from *Code with Harry’s Sigma Web Development Course*. It combines **speech-to-text**, **translation**, **semantic search**, and **LLM-powered Q&A** to provide intelligent responses to user queries about web development concepts.
 
